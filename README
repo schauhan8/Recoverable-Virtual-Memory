@@ -1,3 +1,5 @@
 To run, just modify TestFile.c
 Add requisite privileges to sid_man.sh
 Run with ./sid_man.sh
+
+Look at TestFile.c
